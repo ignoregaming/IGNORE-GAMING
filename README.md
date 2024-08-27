@@ -1,0 +1,2 @@
+# IGNORE-GAMING
+Bot
